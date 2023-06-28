@@ -5,3 +5,4 @@ add_compile_options(-std=c++17)
 
 add_executable(lambdas_test src/lambdas_test.cpp)
 add_executable(stl_algorithms_examples src/stl_algorithms.cpp)
+add_executable(very_bad_guy src/very_bad_guy.cpp)
